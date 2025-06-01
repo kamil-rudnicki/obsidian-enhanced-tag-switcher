@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "enhanced-tag-switcher",
+	"name": "Enhanced Tag Switcher",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Click tags to open dropdown with all vault tags.",
+	"author": "Kamil Rudnicki",
+	"authorUrl": "https://www.timecamp.com",
+	"isDesktopOnly": true
 }
